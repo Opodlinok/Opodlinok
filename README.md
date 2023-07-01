@@ -1,15 +1,16 @@
 ### Hi there 👋
-
-<!--
-**Opodlinok/Opodlinok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Opodlinok
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[DTF](https://dtf.ru/u/138827)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://dtf.ru/u/138827" target="blank"><img align="center" src="https://dtf.ru/static/build/dtf.ru/favicons/favicon.ico" alt="" height="40" width="40" /></a>
+<a href="https://habr.com/users/Opodlinok/" target="blank"><img align="center" src="https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-76.png" alt="" height="40" width="40" /></a>
+<a href="https://t.me/opodlinok" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/telegram-icon-256x256-sto927jg.png" alt="" height="40" width="40" /></a>
 </p>
+
+
+<!--
+**Opodlinok/Opodlinok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
