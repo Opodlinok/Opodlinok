@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=600&duration=6000&pause=800&color=F7F7F7&background=0D1117&center=true&vCenter=true&repeat=false&width=1080&height=20&lines=I'm+Pavel)](https://git.io/typing-svg)
 <p align="center">
-  Currently learning C#, trying to make games in Unity.
-  <br>I'm a little interested of Blender, but mostly I'm learning about competent coding.
+  I’m a Unity developer with a focus on learning and improving my C# skills.
+  <br>Currently, I’m working on game development and experimenting with plugins to simplify workflows.
+  <br>I also have a growing interest in Blender for 3D modeling, but my primary focus is writing clean and efficient code.
 </p>
 
 <p align="center">
